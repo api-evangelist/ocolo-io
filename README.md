@@ -1,4 +1,4 @@
-# ocolo-io
+# OCOLO
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,121 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ocolo-io is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://ocolo.io/
+OCOLO is a marketplace that simplifies the discovery, comparison, and purchase of colocation and data center services. It connects enterprise IT buyers with global service providers, offering transparent inventory, pricing, and automated ordering to accelerate infrastructure decisions.
+
+**Areas:** Colocation · Data Center Marketplace · Enterprise IT · Wholesale Capacity Data · Ordering Portal Licensing · Bid Management
+
+## OCOLO on APIs.io
+
+Everything profiled for OCOLO is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ocolo-io/](https://apis.io/providers/ocolo-io/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [OCOLO Guidance API](https://apis.io/apis/ocolo-io/ocolo-io-guidance-api/) — The Guidance API from OCOLO — 1 operation(s) for guidance.
+- [OCOLO Openapi.json API](https://apis.io/apis/ocolo-io/ocolo-io-openapi-json-api/) — The Openapi.json API from OCOLO — 1 operation(s) for openapi.json.
+- [OCOLO Project Requests API](https://apis.io/apis/ocolo-io/ocolo-io-project-requests-api/) — The Project Requests API from OCOLO — 2 operation(s) for project requests.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [OCOLO Agentic Access](https://apis.io/agentic-access/ocolo-io/ocolo-io-agentic-access/)
+
+#### JSON Schema (3)
+
+The data models the API reads and writes.
+
+- [Guidance](https://apis.io/schemas/ocolo-io/ocolo-io-guidance/)
+- [ProjectRequestCreate](https://apis.io/schemas/ocolo-io/ocolo-io-project-request-create/)
+- [ProjectRequestResponse](https://apis.io/schemas/ocolo-io/ocolo-io-project-request-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Ocolo Io Context](https://apis.io/jsonld/ocolo-io/ocolo-io-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [OCOLO API Rules](https://apis.io/rules/ocolo-io/ocolo-io-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [OCOLO Authentication](https://apis.io/security/ocolo-io/ocolo-io-authentication/)
+- [OCOLO Domain Security](https://apis.io/security/ocolo-io/ocolo-io-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ocolo.io/)
+- [Documentation](https://www.ocolo.io/about-us/)
+- [API reference](https://dev.ocolo.io/llms.txt)
+- [Support](https://www.ocolo.io/contact-us/General%20Contact/)
+- [Blog](https://blog.ocolo.io/)
+- [Terms of service](https://www.ocolo.io/terms-of-use/)
+- [Privacy policy](https://www.ocolo.io/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 48.9** — developing · rubric 0.27.0 · scored 2026-11-19
+
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 58.1 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 51.7 |
+| Access clarity | 34.2 |
+
+**Agent readiness 47.1** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ocolo-io/](https://apis.io/providers/ocolo-io/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for OCOLO: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ocolo-io/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
